@@ -4,6 +4,16 @@
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
+@media (max-width: 576px) {
+  a {
+    font-size: 10px;
+  }
+
+  p {
+    display: none;
+  }
+}
+
 body {
   margin: 60px auto;
   max-width: 800px;
