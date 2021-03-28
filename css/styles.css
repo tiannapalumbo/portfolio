@@ -6,7 +6,10 @@
 
 @media (max-width: 576px) {
   a {
-    font-size: 10px;
+    font-size: 13px;
+  }
+  .mb-3 h2 {
+    font-size: 20px;
   }
 
   p {
