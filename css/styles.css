@@ -22,7 +22,6 @@
   }
 
   .container {
-    text-align: center;
   }
 }
 
@@ -40,7 +39,6 @@ body {
 h1 {
   color: whitesmoke;
   font-family: "Kaushan Script", cursive;
-  margin-top: 20px;
 }
 
 .about-section h1 {
