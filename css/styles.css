@@ -13,7 +13,7 @@
     font-size: 20px;
   }
 
-  .about-section h1 {
+  .content-section h1 {
     font-size: 15px;
   }
 
@@ -42,7 +42,15 @@ h1 {
   font-family: "Kaushan Script", cursive;
 }
 
-.about-section h1 {
+.content-section h1 {
+  font-size: 28px;
+}
+
+.content-section h2 {
+  font-size: 20px;
+}
+
+.work-section h1 {
   font-size: 28px;
 }
 
@@ -50,9 +58,10 @@ h2 {
   color: whitesmoke;
   font-family: "Open Sans", sans-serif;
   opacity: 0.9;
+  font-size: 20px;
 }
 
-.about-section h3 {
+.content-section h3 {
   font-size: 12px;
 }
 
@@ -72,7 +81,7 @@ p {
   opacity: 0.7;
 }
 
-.about-section-content {
+.content {
   padding: 10px;
 }
 
