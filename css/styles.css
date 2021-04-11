@@ -69,6 +69,10 @@ p {
   opacity: 0.7;
 }
 
+.about-section-content {
+  padding: 20px;
+}
+
 .navigation-links {
   display: flex;
   margin-top: 30px;
