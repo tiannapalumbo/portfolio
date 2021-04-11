@@ -91,6 +91,7 @@ footer {
 
 .footer-link {
   color: var(--tertiary-color);
+  font-size: 10px;
 }
 
 .footer-link:hover {
